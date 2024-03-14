@@ -8,7 +8,7 @@
 
 原生代币和 USDC 资产情况在线实时显示，支持多个区块链网络，方便用户实时查看资产情况。
 
-![IMG_AfterConnection](./Demonstration/images/IMG_AfterConnection.png)
+![IMG_AfterConnection](./images/IMG_AfterConnection.png)
 
 ### 2. 无缝跨链传输：
 

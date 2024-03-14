@@ -1,0 +1,19 @@
+# Router 合约的 Hardhat 工程文件
+
+所部署或第三方已部署的该合约各链的地址如下：
+
+### 主网
+
+- Ethereum Mainnet：0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D
+- Avalanche C-chain：0x60ae616a2155ee3d9a68541ba4544862310933d4
+- Optimism：0xa062aE8A9c5e11aaA026fc2670B0D65cCc8B2858
+- Arbitrum One：0x1b02da8cb0d097eb8d57a175b88c7d8b47997506
+- Base：0x327Df1E6de05895d2ab08513aaDD9313Fe505d86
+
+### 测试网
+
+- Ethereum Goerli：0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D
+- Avalanche-Fuji：0x3705aBF712ccD4fc56Ee76f0BD3009FD4013ad75
+- Optimism-Goerli：0x8F1f2A89930dC9aaa7B5a799AC695dF809B0fbe5
+- Arbitrum-Goerli：0x81cD91B6BD7D275a7AeebBA15929AE0f0751d18C
+- Base-Goerli：0x9E3A2a71a5134EA25b547C3EE9131192da7B3DE5

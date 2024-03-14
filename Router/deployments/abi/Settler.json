@@ -1,0 +1,18 @@
+[
+  "constructor(address,address,address,address)",
+  "error NotAdmin()",
+  "error TransactionFailed()",
+  "event Deposit(address indexed,uint256,string)",
+  "event Transfer(address indexed,uint256,string)",
+  "event Withdrawal(uint256,string)",
+  "function coinSettleWithFee(bytes,bytes,tuple(address,uint256,uint256,uint256)) returns (bool)",
+  "function getMyCoinBalance() view returns (uint256)",
+  "function getPoolTokenBalance() view returns (uint256)",
+  "function getTokenBalance(address) view returns (uint256)",
+  "function getTokenSymbol() view returns (string)",
+  "function path(uint256) view returns (address)",
+  "function token() view returns (address)",
+  "function tokenSettleWithFee(bytes,bytes,address,uint256) returns (bool)",
+  "function withdrawCoin(uint256)",
+  "function withdrawToken(uint256)"
+]

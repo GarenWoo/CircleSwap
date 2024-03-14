@@ -1,0 +1,4 @@
+[
+  "function getAmountsOut(uint256,address[]) view returns (uint256[])",
+  "function swapExactTokensForAVAX(uint256,uint256,address[],address,uint256) returns (uint256[])"
+]
